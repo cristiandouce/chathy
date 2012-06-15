@@ -1,0 +1,10 @@
+{
+    "name": "chathy"
+  , "version": "0.0.1"
+  , "description": "Simple Chat History logger applications for NodeJs."
+  , "keywords": []
+  , "author": "Cristian Douce <cristian@gravityonmars.com>"
+  , "dependencies": {}
+  , "main": "index"
+  , "engines": { "node": "0.6.x" }
+}
